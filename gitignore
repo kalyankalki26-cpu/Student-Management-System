@@ -1,0 +1,14 @@
+# Build output
+student_management
+student_management.exe
+*.o
+*.out
+
+# Runtime data
+students.txt
+students.tmp
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
