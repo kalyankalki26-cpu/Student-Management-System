@@ -54,7 +54,7 @@ Files from the older space-separated format (`101 Priya 87.50`) are still readab
 
 ```
 .
-├── main.c
+├── students.c
 ├── Makefile
 ├── README.md
 ├── LICENSE
